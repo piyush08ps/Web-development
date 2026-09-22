@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+body{
+    background-color: rgb(226, 242, 244);
+}
+hr{
+    color: black;
+}
+h2{
+    -color:  brown;
+}
+table{
+    border: 2px solid black ;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    font-family: "Lato", sans-serif;
+}
+
+th{
+    border: 1px solid black;
+    font-family: "Lato", sans-serif;
+}
+
+.heading{
+    color: crimson;
+    font-size: larger;
+}
+h2{
+    color: brown;
+    font-family: "Lato", sans-serif;
+}
