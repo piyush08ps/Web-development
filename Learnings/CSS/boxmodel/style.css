@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+
+.d1{
+    display: flex;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+    color: black;
+}
