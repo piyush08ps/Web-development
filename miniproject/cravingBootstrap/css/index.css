@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap');
+
+.font-roboto{
+    font-family: "roboto condensed", sans-serif;
+}
+.font-grachen{
+    font-family: "grechen fuemen", cursive
+    ;
+
+}
+a{
+    text-decoration: none;
+}
+#hero{
+
+    position: relative;
+
+    #bg-img1{
+        height: 90vh;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        filter: brightness(40%);
+    }
+
+}
+#hero-outer{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+   
+    top: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#hero-inner{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+

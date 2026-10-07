@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#hw{
+    height: 400px;
+    width: 50px;
+    border: 1px solid #000;
+}
+#welcome{
+    background-color: red;
+    
+}
+#welcome::after{
+    content: "❤️";
+}
